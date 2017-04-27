@@ -1,2 +1,1 @@
-# hello-world
-it's the first project anyone ever does, ever
+I'm a rude dude, with a crude 'tude.
